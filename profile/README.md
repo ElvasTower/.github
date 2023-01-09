@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Chat with us on Gitter<br>
+[![Gitter](https://badges.gitter.im/ElvasTower/community.svg)](https://gitter.im/ElvasTower/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 <!--
 
 **Here are some ideas to get you started:**
